@@ -6,7 +6,7 @@
 
    # Author: Upkar Lidder (IBM)
    # Additional Authors:
-   # Allen Mathews
+   # Allen Mathews: Github username: allenmathews
 
    # Input:
    # p, principal amount
